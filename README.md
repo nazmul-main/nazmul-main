@@ -56,25 +56,23 @@ Certainly! foucusing  on web application using Next.js for frontend, Material-UI
 -  [Facebook](https://www.facebook.com/nazmulhossen539)
 -  [ LinkedIn Profile](https://www.linkedin.com/in/nazmul-hossen-main/)
 - [ Instagram ](https://www.instagram.com/nazmulhossen01/)
-- [ Email ](nazmulhossen539@gmail.com)
+- [ Email: nazmulhossen539@gmail.com ](#)
 
 <!-- ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmul&show_icons=true&count_private=true&hide=contribs,prs) -->
 
 
-## 🌟 Featured Repositories
+## 🌟 Some project live link
 
-### [Project Name 1](Link to Project 1)
-
-Brief description of the project and its significance.
-
-### [Project Name 2](Link to Project 2)
+#### Blog type:   [https://the-blogopolis.web.app](](https://the-blogopolis.web.app/))
 
 Brief description of the project and its significance.
 
-## 🤝 Contributing
+#### Assets-manegment:  [https://smart-asset-managment.web.app](https://smart-asset-managment.web.app/)
 
-If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+Brief description of the project and its significance.
+
+
 
 Thank you for visiting my profile! 😊
