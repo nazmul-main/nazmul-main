@@ -1,13 +1,13 @@
 # 👋 Hello!
 
 
-Welcome to my GitHub profile! I'm [Nazmul Hossen], a [Your Role/Title] passionate about [Your Interests/Expertise].
+Welcome to my GitHub profile!
 
 
 
 ![logo](images/Birthday%20(4).png)
-## 🚀 About Me
-I'm a [Your Location]-based [Your Profession] with a strong background in [Your Field/Area of Expertise]. My journey in the world of technology and open source has been an exciting adventure, and I'm always eager to learn and explore new things.
+
+I'm Nazmul, a passionate front-end developer dedicated to crafting seamless and engaging user experiences. With a keen eye for design and a love for clean code, I transform ideas into interactive web applications. My toolbox includes HTML, CSS, JavaScript, and various modern frameworks. When not coding, you'll find me exploring new technologies, contributing to open source projects, and continuously honing my skills to stay at the forefront of web development. Let's build something amazing together! 💻✨ #FrontEndDev #WebDevelopment #CodeEnthusiast
 
 
 
@@ -16,7 +16,7 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 
 <p align="center">
   <p class='flex justify-center item-center'>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nodejs,firebase,mongodb," /><img style='border-radius: 10px;' width='48' src="images/Untitled%20design%20(1).png" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nodejs,firebase,express,mongodb," /><img style='border-radius: 10px;' width='48' src="images/Untitled%20design%20(1).png" />
     <img style='border-radius: 10px;' width='48' src="images/Untitled design (2).png" />
   </p>
 </p>
@@ -32,10 +32,7 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 
  ## 📊 GitHub Stats:
 
-<p align='center' href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-main&theme=whatsapp-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nazmul-main&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
 </br>
 
@@ -43,6 +40,12 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazmul-main&show_icons=true&hide_border=true&count_private=true&hide=prs,issues,contribs&bg_color=121B22&text_color=086757&icon_color=7F8488&title_color=ffffff" alt="GitHub Stats" />
 </p>
+
+
+
+
+
+
 
 
 
@@ -67,11 +70,10 @@ Certainly! foucusing  on web application using Next.js for frontend, Material-UI
 
 #### Blog type: [https://the-blogopolis.web.app](https://the-blogopolis.web.app/)
 
-Brief description of the project and its significance.
 
 #### Assets-manegment: [https://smart-asset-managment.web.app](https://smart-asset-managment.web.app/)
 
-Brief description of the project and its significance.
+
 
 
 
