@@ -11,7 +11,26 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 
 
 
- # 📊 GitHub Stats:
+
+## 🔧 Skills
+
+<p align="center">
+  <p class='flex justify-center item-center'>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nodejs,firebase,mongodb," /><img style='border-radius: 10px;' width='48' src="images/Untitled%20design%20(1).png" />
+    <img style='border-radius: 10px;' width='48' src="images/Untitled design (2).png" />
+  </p>
+</p>
+
+- **Tools:** 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman," />
+  </a>
+</p>
+
+
+
+
+ ## 📊 GitHub Stats:
 
 <p align='center' href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-main&theme=whatsapp-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
@@ -27,35 +46,17 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 
 
 
-
-
-## 🔧 Skills
-
-<p align="center">
-  <p class='flex justify-center item-center'>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nextjs,firebase,mongodb," /><img style='border-radius: 10px;' width='48' src="images/Untitled%20design%20(1).png" />
-    <img style='border-radius: 10px;' width='48' src="images/Untitled design (2).png" />
-  </p>
-</p>
-
-- **Tools:** 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,postman," />
-  </a>
-</p>
-
-
-
 ## 🌱 Current Focus
 
-I'm currently focusing on [Your Current Projects/Goals], where I'm [Brief description of what you're working on or learning].
+
+Certainly! foucusing  on web application using Next.js for frontend, Material-UI for a sleek design, and Mongoose for MongoDB interaction on the backend. This tech stack ensures efficient development, a polished user interface, and structured data modeling for your project.
 
 ## 🌐 Connect with Me
 
-- **Website:** [Your Website URL]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-- **Email:** [Your Email Address]
+-  [Facebook](https://www.facebook.com/nazmulhossen539)
+-  [ LinkedIn Profile](https://www.linkedin.com/in/nazmul-hossen-main/)
+- [ Instagram ](https://www.instagram.com/nazmulhossen01/)
+- [ Email ](nazmulhossen539@gmail.com)
 
 <!-- ## 📈 GitHub Stats
 
