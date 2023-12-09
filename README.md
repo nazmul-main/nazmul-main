@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ![logo](images/Birthday%20(4).png)
 
-I'm Nazmul, a passionate front-end developer dedicated to crafting seamless and engaging user experiences. With a keen eye for design and a love for clean code, I transform ideas into interactive web applications. My toolbox includes HTML, CSS, JavaScript, and various modern frameworks. When not coding, you'll find me exploring new technologies, contributing to open source projects, and continuously honing my skills to stay at the forefront of web development. Let's build something amazing together! 💻✨ #FrontEndDev #WebDevelopment #CodeEnthusiast
+I'm Nazmul, a passionate front-end developer dedicated to crafting seamless and engaging user experiences. With a keen eye for design and a love for clean code, I transform ideas into interactive web applications. My toolbox includes HTML, CSS, JavaScript, and various modern frameworks. When not coding, you'll find me exploring new technologies, contributing to open source projects, and continuously honing my skills to stay at the forefront of web development. Let's build something amazing together! 💻✨
 
 
 
@@ -22,7 +22,7 @@ I'm Nazmul, a passionate front-end developer dedicated to crafting seamless and 
 </p>
 
 - **Tools:** 
-<p align="center">
+<p align="">
     <img src="https://skillicons.dev/icons?i=git,github,postman," />
   </a>
 </p>
@@ -63,7 +63,7 @@ Certainly! foucusing  on web application using Next.js for frontend, Material-UI
 -  [Facebook](https://www.facebook.com/nazmulhossen539)
 -  [ LinkedIn Profile](https://www.linkedin.com/in/nazmul-hossen-main/)
 - [ Instagram ](https://www.instagram.com/nazmulhossen01/)
-- [ Email: nazmulhossen539@gmail.com ](#)
+- [ Email: ](nazmulhossen539@gmail.com )
 
 <!-- ## 📈 GitHub Stats
 
