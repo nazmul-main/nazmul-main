@@ -2,11 +2,11 @@
 
 
 Welcome to my GitHub profile! I'm [Nazmul Hossen], a [Your Role/Title] passionate about [Your Interests/Expertise].
-## 🚀 About Me
+
 
 
 ![logo](images/Birthday%20(4).png)
-
+## 🚀 About Me
 I'm a [Your Location]-based [Your Profession] with a strong background in [Your Field/Area of Expertise]. My journey in the world of technology and open source has been an exciting adventure, and I'm always eager to learn and explore new things.
 
 
