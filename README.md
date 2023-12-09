@@ -65,11 +65,11 @@ Certainly! foucusing  on web application using Next.js for frontend, Material-UI
 
 ## 🌟 Some project live link
 
-#### Blog type:   [https://the-blogopolis.web.app](](https://the-blogopolis.web.app/))
+#### Blog type: [https://the-blogopolis.web.app](https://the-blogopolis.web.app/)
 
 Brief description of the project and its significance.
 
-#### Assets-manegment:  [https://smart-asset-managment.web.app](https://smart-asset-managment.web.app/)
+#### Assets-manegment: [https://smart-asset-managment.web.app](https://smart-asset-managment.web.app/)
 
 Brief description of the project and its significance.
 
