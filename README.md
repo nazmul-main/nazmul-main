@@ -32,24 +32,14 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 ## 🔧 Skills
 
 <p align="center">
-  <p class='flex'>
+  <p class='flex justify-center item-center'>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,vite,nextjs,firebase,mongodb," /><img style='border-radius: 10px;' width='48' src="images/Untitled%20design%20(1).png" />
     <img style='border-radius: 10px;' width='48' src="images/Untitled design (2).png" />
   </p>
 </p>
 
-<p class='flex' align="center">
-    <p class='flex' align="center">
-   
-</p>
-
-</p>
-
-
-
 - **Tools:** 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman," />
   </a>
 </p>
