@@ -32,7 +32,11 @@ I'm Nazmul, a passionate front-end developer dedicated to crafting seamless and 
 
  ## 📊 GitHub Stats:
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nazmul-main&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
+</div>
 
 </br>
 
