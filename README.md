@@ -21,7 +21,7 @@ I'm a [Your Location]-based [Your Profession] with a strong background in [Your 
 
 <!-- Add total commit count with the same theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-main&show_icons=true&hide_border=true&count_private=true&hide=prs,issues,contribs&bg_color=0B141B&text_color=1DA156&icon_color=7F8488&title_color=7F8488" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazmul-main&show_icons=true&hide_border=true&count_private=true&hide=prs,issues,contribs&bg_color=121B22&text_color=086757&icon_color=7F8488&title_color=ffffff" alt="GitHub Stats" />
 </p>
 
 
