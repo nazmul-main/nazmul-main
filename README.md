@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://raw.githubusercontent.com/nazmul-main/nazmul-main/main/images/banner.png)
+![logo](images/Birthday%20(4).png)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nazmul-main&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
